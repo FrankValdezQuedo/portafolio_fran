@@ -7,7 +7,7 @@ const NAV_ITEMS = [
   { name: "Proyectos", path: "#proyectos" },
   { name: "Habilidades", path: "#habilidades" },
   { name: "Certificaciones", path: "#certificaciones" },
-  { name: "Sobre Mi", path: "#sobre-mi" },
+  { name: "Sobre Mí", path: "#sobre-mi" },
   { name: "Contacto", path: "#contacto" },
 ];
 
