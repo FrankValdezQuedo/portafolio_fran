@@ -2,7 +2,7 @@ const Experience = () => {
   const experiences = [
     {
       title: "Desarrollador Backend",
-      company: "FLCode",
+      company: "Megasuite",
       period: "Noviembre 2024 - Agosto 2025",
       description:
         "Desarrollé APIs RESTful usando Spring Boot y WebFlux dentro de una arquitectura hexagonal, aplicando principios de diseño limpio y despliegue basado en microservicios.",
@@ -10,7 +10,7 @@ const Experience = () => {
     {
       title: "Ingeniero DevOps",
       company: "Redondos S.A.",
-      period: "Julio 2024 - Diciembre 2024",
+      period: "Julio 2024 - Noviembre 2024",
       description:
         "Encargado de la integración y entrega continua mediante Jenkins, automatización de despliegues con Ansible, y análisis de calidad de código con SonarQube. Gestión de artefactos en Nexus, control de versiones con Bitbucket y administración de servidores con Weblogic.",
     },
