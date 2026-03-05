@@ -1,18 +1,18 @@
 const Experience = () => {
   const experiences = [
     {
+      title: "Software Engineer",
+      company: "NTT DATA",
+      period: "Septiembre 2025 - Actualidad",
+      description:
+        "Backend Engineer asignado al cliente BCP, participando en la habilitación de la infraestructura y componentes base para un sistema interno en Azure. Configuración y gestión de servicios como Blob Storage, Key Vault, Databricks y App Service para soportar el desarrollo del proyecto. Posteriormente enfocado en el desarrollo de APIs y servicios backend utilizando Java y Quarkus dentro de una arquitectura basada en microservicios y buenas prácticas de ingeniería de software.",
+    },
+    {
       title: "Desarrollador Backend",
       company: "Megasuite",
       period: "Noviembre 2024 - Agosto 2025",
       description:
         "Desarrollé APIs RESTful usando Spring Boot y WebFlux dentro de una arquitectura hexagonal, aplicando principios de diseño limpio y despliegue basado en microservicios.",
-    },
-    {
-      title: "Ingeniero DevOps",
-      company: "Redondos S.A.",
-      period: "Julio 2024 - Noviembre 2024",
-      description:
-        "Encargado de la integración y entrega continua mediante Jenkins, automatización de despliegues con Ansible, y análisis de calidad de código con SonarQube. Gestión de artefactos en Nexus, control de versiones con Bitbucket y administración de servidores con Weblogic.",
     },
   ];
 
