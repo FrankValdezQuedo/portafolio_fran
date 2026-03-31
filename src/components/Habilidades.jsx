@@ -7,6 +7,8 @@ import {
   FaReact,
   FaJava,
   FaBitbucket,
+  FaAws,
+  FaAmazon
 } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 import {
@@ -63,6 +65,8 @@ const SKILLS_DATA = [
   { id: "ansible", name: "Ansible", icon: SiAnsible, category: "DevOps" },
   { id: "docker", name: "Docker", icon: FaDocker, category: "DevOps" },
   { id: "jenkins", name: "Jenkins", icon: FaJenkins, category: "DevOps" },
+  { id: "aws", name: "AWS", icon: FaAws, category: "DevOps" },
+  { id: "amazon", name: "Amazon", icon: FaAmazon, category: "DevOps" },
 
   // Tools
   { id: "bitbucket", name: "Bitbucket", icon: FaBitbucket, category: "Tools" },

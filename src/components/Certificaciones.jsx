@@ -4,6 +4,9 @@ import java from "../image/certificado-ruta-backend-java.png";
 import docker from "../image/Docker.png";
 import scrum from "../image/Scrum2.png";
 import springboot from "../image/Springboot.png";
+import azure from "../image/Azure.png";
+import aws from "../image/Aws.png";
+
 
 // Datos de certificaciones
 const CERTIFICACIONES_DATA = [
@@ -12,6 +15,8 @@ const CERTIFICACIONES_DATA = [
   { title: "Scrum Fundamentals", image: scrum },
   { title: "Inglés", image: ingles },
   { title: "Spring Boot", image: springboot },
+  { title: "Microsoft Azure Fundamentals AZ-900", image: azure },
+  { title: "AWS para empresas", image: aws }
 ];
 
 // Clases comunes
